@@ -11,6 +11,7 @@ You are free to share, copy, distribute, and adapt these documents, even for com
 
 - [Privacy Policy](https://delukdoabi.github.io/shoopt-legal/privacy-policy.html)
 - [Legal Notice](https://delukdoabi.github.io/shoopt-legal/legal-notice.html)
+- [Account Deletion](https://delukdoabi.github.io/shoopt-legal/account-deletion.html)
 - Other legal documents related to Shoopt
 
 ## Learn More
